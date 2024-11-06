@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(28, 188, 124);
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 2rem;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgb(49, 50, 45);
+}
+
+.poster {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 70px;
+  color: black;
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+.img {
+  border: 5px solid white;
+  border-radius: 14px;
+  width:80%;
+  height: 500px;
+}
